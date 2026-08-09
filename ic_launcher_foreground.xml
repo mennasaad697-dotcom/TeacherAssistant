@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- خلفية دائرية فاتحة داخل حدود الأيقونة -->
+    <path
+        android:pathData="M54,54m-40,0a40,40 0 1,1 80,0a40,40 0 1,1 -80,0"
+        android:fillColor="#E8EEF7"/>
+    <!-- قبعة تخرج مبسطة (رمز المعلم) -->
+    <path
+        android:pathData="M54,38L78,48L54,58L30,48Z"
+        android:fillColor="#4A6FA5"/>
+    <path
+        android:pathData="M54,38L54,30L62,33.5L54,38Z"
+        android:fillColor="#35537E"/>
+    <path
+        android:pathData="M54,58L74,49.75L74,58L54,66.25L34,58L34,49.75L54,58Z"
+        android:fillColor="#4A6FA5"/>
+    <path
+        android:pathData="M78,48L78,54"
+        android:strokeColor="#4A6FA5"
+        android:strokeWidth="2"/>
+    <path
+        android:pathData="M78,54m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0"
+        android:fillColor="#F5C242"/>
+    <!-- كتاب -->
+    <path
+        android:pathData="M40,70L54,65L68,70L68,82L54,77L40,82Z"
+        android:fillColor="#35537E"/>
+    <path
+        android:pathData="M54,65L54,77"
+        android:strokeColor="#E8EEF7"
+        android:strokeWidth="1.5"/>
+</vector>

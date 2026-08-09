@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مساعد المعلم</string>
+    <string name="login_title">تسجيل الدخول</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login_button">دخول</string>
+    <string name="home">الرئيسية</string>
+    <string name="attendance">الحضور والغياب</string>
+    <string name="students">الطلاب</string>
+    <string name="groups">المجموعات</string>
+    <string name="grades">الدرجات</string>
+    <string name="homework">الواجبات</string>
+    <string name="payments">المدفوعات</string>
+    <string name="reports">التقارير</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="settings">الإعدادات</string>
+    <string name="backup">النسخ الاحتياطي</string>
+    <string name="present">حاضر</string>
+    <string name="absent">غائب</string>
+    <string name="late">متأخر</string>
+</resources>
